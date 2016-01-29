@@ -7,7 +7,11 @@
   margin-bottom: 2.142em;
 }
 .boxContact-title {
+  font-weight: bolder;
   margin-bottom: .8em;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1em;
 }
 .boxContact-inputText {
   box-sizing: padding-box;
