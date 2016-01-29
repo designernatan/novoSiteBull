@@ -1,0 +1,29 @@
+.boxTrainer {
+  text-align: center;
+  background: #f8fb00;
+  padding-top: 7em;
+  padding-bottom: 9em;
+  position: relative;
+}
+
+.boxTrainer:before {
+  content: "";
+  background: url(/novoSiteBullets/image/block/trainer/Instrutores.png);
+  display: block;
+  width: 178px;
+  height: 178px;
+  position: absolute;
+  top: -100px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;  
+}
+.boxTrainer-title {
+  font-weight:  bolder;
+  margin-bottom: 1em;
+  color: #0B2B3D;
+}
+.boxTrainer-list,
+.boxTrainer-list-item {
+  list-style: none;
+}

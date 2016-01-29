@@ -1,0 +1,29 @@
+.quotesStudent,
+.quotesStudent-item {
+  list-style: none;
+  position: relative;
+}
+.quotesStudent-item:not(:last-child) {
+  margin-bottom: 3.214em;
+}
+.quotesStudent-item-note {
+  box-sizing: padding-box;
+  background-color: #FFF;
+  color: #222;
+  padding: 1em 4%;
+  border-radius: .6em;
+  margin-bottom: .9em;
+}
+
+.quotesStudent-item-note:after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 2em 1.5em 0;
+    border-color: transparent #fff transparent transparent;
+    position: absolute;
+    bottom: 4em;
+    left: 20%;
+}

@@ -1,0 +1,28 @@
+.trainer {
+  clear:both;
+  overflow: hidden;
+  text-align: left;
+  padding-left: 20%;
+  margin-bottom: 2.5em;
+}
+
+.boxTrainer-list-item:last-child .trainer {
+  margin-bottom: 0;
+}
+.trainer-photo {
+  float: left;
+  margin-right: 4%;
+}
+.trainer-photo img {
+  border-radius: 50%;
+  border: 2px solid white;
+}
+.trainer-name {
+  font-size: 1.285em;
+  padding-top: .5em;
+}
+.trainer-moreInfo-action {
+  color: #00A3FF;
+  margin-top: .6em;
+  display: block;
+}

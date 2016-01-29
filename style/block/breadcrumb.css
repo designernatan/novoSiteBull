@@ -1,0 +1,17 @@
+.wrap-breadcrumb {
+  padding-top: 1.428em;;
+  padding-bottom: 1.428em;
+}
+.breadcrumb {
+  text-align: center;
+}
+.breadcrumb-item {
+  display: inline-block;
+}
+.breadcrumb-item-action {
+  color: #00A3FF;
+  display: inline-block;
+}
+.breadcrumb-item:not(:last-child):after {
+  content: '>';
+}

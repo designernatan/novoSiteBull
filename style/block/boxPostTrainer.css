@@ -1,0 +1,29 @@
+.boxPostTrainer {
+  background-color: #f06eaa;
+  padding-top: 7em;
+  padding-bottom: 9em;
+  position: relative;
+}
+
+.boxPostTrainer:before {
+  content: "";
+  background: url(/novoSiteBullets/image/block/posts/Posts.png);
+  display: block;
+  width: 178px;
+  height: 178px;
+  position: absolute;
+  top: -100px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;  
+}
+.boxPostTrainer-title {
+  font-weight: bolder;
+  text-align: center;
+  color: #0B2B3D;
+  margin-bottom: 1em;
+}
+.boxPostTrainer-list,
+.boxPostTrainer-list-item {
+  list-style: none;
+}
