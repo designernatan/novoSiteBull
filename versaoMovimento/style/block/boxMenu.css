@@ -1,0 +1,38 @@
+.boxMenu {
+  padding-top: 1.428em;
+}
+
+.boxMenu-title {
+  font-size: 1.8em;
+  text-align: center;
+  font-weight: normal;
+  color: #0B2B3D;
+  margin-bottom: .8em;
+}
+.boxMenu-subtitle {
+  font-size: 1.4em;
+  margin-bottom: .5em;
+  font-weight: normal;
+}
+.boxMenu-list {
+  list-style: decimal-leading-zero;
+  margin-left: 11%;
+  margin-bottom: 3em;
+}
+.boxMenu-list:last-child {
+  margin-bottom: 1.5em;
+}
+.boxMenu-list-item {
+  margin-bottom: 1em;
+  font-size: 1.1em;
+}
+.boxMenu-button {
+  display: block;
+  color: #0B2B3D;
+  width: 100%;
+  background-color: #C2C2C2;
+  font-size: 1.666em;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+  cursor: pointer;
+}

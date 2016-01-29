@@ -1,0 +1,34 @@
+.boxBanner {
+  background-color: #3498DB;
+  background-image: linear-gradient(115deg, #3498DB 61%, #FFC95A 39%);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 1.428em;
+  padding-bottom: 1.428em;
+  color: #FFF;
+  text-align: center;
+  margin-bottom: 2.142em;
+}
+.boxBanner-title {
+  font-size: 1.357em;
+  line-height: 1.3em;
+  float: left;
+  width: 70%;
+  font-weight: normal;
+  text-align: left;
+}
+.boxBanner-title-small {
+  font-size: 0.736em;
+  display: block;
+}
+.boxBanner-workload {
+  width: 30%;
+  float: right;
+  padding-top: 1.5em;
+}
+.boxBanner-worklaod-description {
+  color: #000;
+}
+.boxBanner .button {
+  margin-top: 1.071em;
+}

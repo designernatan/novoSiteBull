@@ -1,0 +1,15 @@
+.boxForum {
+  background-color: #2ECC71;
+  color: #FFF;
+  padding-top: 1.428em;
+  padding-bottom: 1.428em;
+}
+.boxForum-title {
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 1em;
+}
+.boxForum-list,
+.boxForum-list-item {
+  list-style: none;
+}

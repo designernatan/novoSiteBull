@@ -1,0 +1,28 @@
+.boxBanner {
+  background-color: #3498DB;
+  padding-top: 1.428em;
+  padding-bottom: 1.428em;
+  color: #FFF;
+  text-align: center;
+  margin-bottom: 2.142em;
+}
+.boxBanner-title {
+  font-size: 1.357em;
+  line-height: 1.3em;
+  float: left;
+  width: 70%;
+  font-weight: normal;
+  text-align: left;
+}
+.boxBanner-title-small {
+  font-size: 0.736em;
+  display: block;
+}
+.boxBanner-workload {
+  width: 30%;
+  float: right;
+  text
+}
+.boxBanner .button {
+  margin-top: 1.071em;
+}

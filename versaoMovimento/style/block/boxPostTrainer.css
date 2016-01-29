@@ -1,0 +1,14 @@
+.boxPostTrainer {
+  padding-top: 1.428em;
+  padding-bottom: 1.428em;
+}
+.boxPostTrainer-title {
+  text-align: center;
+  color: #0B2B3D;
+  font-weight: normal;
+  margin-bottom: 1em;
+}
+.boxPostTrainer-list,
+.boxPostTrainer-list-item {
+  list-style: none;
+}

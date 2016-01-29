@@ -1,0 +1,13 @@
+.boxPrerequisites {
+  background-color: #F39C12;
+  color: #FFF;
+  padding-top: 1.428em;
+  padding-bottom: 1.428em;
+}
+.boxPrerequisites-title {
+  text-align: center;
+  margin-bottom: 1em;
+}
+.boxPrerequisites-desc {
+  font-size: 1.285em;
+}

@@ -1,0 +1,33 @@
+.boxContact {
+  background-color: #3498DB;
+  color: #FFF;
+  text-align: center;
+  padding-top: 1.428em;
+  padding-bottom: 1.428em;
+  margin-bottom: 2.142em;
+}
+.boxContact-title {
+  margin-bottom: .8em;
+}
+.boxContact-inputText {
+  box-sizing: padding-box;
+  border: 1px solid #7f8C8D;
+  color: #5F5F5F;
+  display: inline-block;
+  width: 75%;
+  height: 2.428em;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  margin-bottom: 1.428em;
+
+  transition: all .2s linear;
+}
+.boxContact-inputText:focus {
+  color: #000;
+  border-color: #0B2B3D;
+}
+.boxContact-newsletter {
+  display: block;
+  width: 75%;
+  margin: 0 auto 1em;
+}

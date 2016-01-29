@@ -1,0 +1,10 @@
+.header {
+  padding-top: .4em;
+  padding-bottom: .4em;
+  background-color: #ECf0F1;
+  text-align: center;
+
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    0px 2px 5px 0px rgba(50, 50, 50, 0.75);
+  box-shadow:         0px 2px 5px 0px rgba(50, 50, 50, 0.75);
+}

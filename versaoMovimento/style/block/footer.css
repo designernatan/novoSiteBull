@@ -1,0 +1,11 @@
+.footer {
+  background-color: #2C3E50;
+  color: #FFF;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+}
+.footer-title {
+  font-size: 2em;
+  font-weight: normal;
+}
