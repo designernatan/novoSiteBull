@@ -1,0 +1,54 @@
+.footer {
+  background-color: #2C3E50;
+  color: #FFF;
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 1em;
+}
+.footer-companies li{
+  display: inline-block;
+  width: 200px;
+  margin-bottom: 2em;
+}
+.footer-companies-caelum {
+  background: url(/novoSiteBull/versaoTopoClean/image/block/footer/logo-caelum.png) no-repeat top;
+  display: block;
+  width: 146px;
+  height: 46px;
+  font-size: 0;
+  text-shadow: none;
+  color: transparent;
+  margin: 0 auto;
+}
+.footer-companies-alura {
+  background: url(/novoSiteBull/versaoTopoClean/image/block/footer/logo-alura.png) no-repeat top;
+  display: block;
+  width: 114px;
+  height: 52px;
+  font-size: 0;
+  text-shadow: none;
+  color: transparent;
+  margin: 0 auto;
+}
+.footer-companies-casaDoCodigo {
+  background: url(/novoSiteBull/versaoTopoClean/image/block/footer/logo-casa-do-codigo.png) no-repeat top;
+  display: block;
+  width: 174px;
+  height: 51px;
+  font-size: 0;
+  text-shadow: none;
+  color: transparent;
+  margin: 0 auto;
+}
+.footer-ourCourses {
+  margin-bottom: 2em;
+}
+.footer-ourCourses a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  margin: 1em;
+}
+.footer-units li{
+  display: inline;
+}

@@ -1,0 +1,68 @@
+body {
+  border-top: 3px solid #0b2b3d;
+}
+
+.header {
+  background: white;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.wrap-breadcrumb {
+  display: none;
+}
+
+.boxBanner {
+  background: #f0f0f0;
+  color: #000;
+  margin: 0; 
+}
+
+.boxBanner-title {
+  font-weight: bold;
+}
+
+.boxBanner-worklaod-description {
+  font-weight: bold;
+}
+
+.boxGoal {
+  background: #f0f0f0;
+  margin: 0;
+  padding-bottom: 7em;
+}
+
+.boxGoal-title {
+  font-weight: 600;
+  clear: both;  
+  padding-top: 1em;
+}
+
+/* Nada ortodoxo ¯\_(ツ)_/¯ */
+.fl {
+  float: left;
+  margin-left: 1em;
+}
+
+.fr {
+  float: right;
+  margin-right: 1em;
+}
+
+.boxBanner-workload {
+  margin-top: 1.8em;
+  padding-right: 0;
+  margin-right: -.8em;
+}
+
+.boxBanner-worklaod-description {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+
+
+
+
+
+

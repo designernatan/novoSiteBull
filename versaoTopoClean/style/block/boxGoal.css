@@ -1,0 +1,19 @@
+.boxGoal {
+  margin-bottom: 2.142em;
+  padding-bottom: 5em;
+}
+.boxGoal-title {
+  font-weight: bolder;
+  text-align: center;
+  color: #0B2B3D;
+  margin-bottom: .5em;
+}
+.boxGoal-video {
+  margin-bottom: 1.428em;
+}
+.boxGoal-list {
+  margin-left: 4.7%;
+}
+.boxGoal-list-item {
+  margin-bottom: .5em;
+}

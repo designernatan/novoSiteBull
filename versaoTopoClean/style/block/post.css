@@ -1,0 +1,29 @@
+.post {
+  background-color: #605ca8;
+  color: #FFF;
+  margin-bottom: 2.142em;
+  padding: .8em .5em .5em;
+  overflow: hidden;
+
+  -webkit-box-shadow: 0px 1px 2px 0px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    0px 1px 2px 0px rgba(50, 50, 50, 0.75);
+  box-shadow:         0px 1px 2px 0px rgba(50, 50, 50, 0.75);
+}
+.post-title {
+  font-size: 1.285em;
+  min-height: 60px;
+}
+.post-authorPhoto {
+  float: right;
+  margin-left: .5em;
+  margin-right: .2em;
+}
+.post-authorPhoto img {
+  border-radius: 50%;
+  border: 2px solid white;
+}
+.post-author {
+  float: right;
+  font-size: 1.285em;
+  line-height: 60px;
+}

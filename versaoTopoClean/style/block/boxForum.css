@@ -1,0 +1,29 @@
+.boxForum {
+  background-color: #2ECC71;
+  color: #FFF;
+  padding-top: 7em;
+  padding-bottom: 9em;
+  position: relative;
+}
+
+.boxForum:before {
+  content: "";
+  background: url(/novoSiteBull/versaoTopoClean/image/block/forum/duvidas-guj.png);
+  display: block;
+  width: 178px;
+  height: 178px;
+  position: absolute;
+  top: -100px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+.boxForum-title {
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 1em;
+}
+.boxForum-list,
+.boxForum-list-item {
+  list-style: none;
+}

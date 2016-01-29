@@ -1,0 +1,16 @@
+.student {
+  overflow: hidden;
+  padding-left: 8%;
+}
+.student-photo {
+  vertical-align: middle;
+  float: left;
+  margin-right: 3%;
+}
+.student-photo img {
+  border-radius: 50%;
+}
+.student-name {
+  font-size: 1.2em;
+  padding-top: .6em;
+}
