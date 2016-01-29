@@ -7,7 +7,7 @@
 }
 .boxMenu:before {
   content: "";
-  background: url(/novoSiteBull/image/block/boxMenu/Conteudo-completo.png);
+  background: url(/novoSiteBull/versaoBolinha/block/boxMenu/Conteudo-completo.png);
   display: block;
   width: 178px;
   height: 178px;
@@ -15,7 +15,7 @@
   top: -100px;
   left: 0;
   right: 0;
-  margin: 0 auto;  
+  margin: 0 auto;
 }
 
 .boxMenu-title {
@@ -65,5 +65,5 @@
   background: linear-gradient(transparent, #1cbbb4);
   height: 10em;
   position: relative;
-  bottom: 10em; 
+  bottom: 10em;
 }

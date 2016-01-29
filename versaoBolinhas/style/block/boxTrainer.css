@@ -8,7 +8,7 @@
 
 .boxTrainer:before {
   content: "";
-  background: url(/novoSiteBull/image/block/trainer/Instrutores.png);
+  background: url(/novoSiteBull/versaoBolinha/image/block/trainer/Instrutores.png);
   display: block;
   width: 178px;
   height: 178px;
@@ -16,7 +16,7 @@
   top: -100px;
   left: 0;
   right: 0;
-  margin: 0 auto;  
+  margin: 0 auto;
 }
 .boxTrainer-title {
   font-weight:  bolder;

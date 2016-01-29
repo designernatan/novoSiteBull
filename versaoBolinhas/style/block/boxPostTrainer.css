@@ -7,7 +7,7 @@
 
 .boxPostTrainer:before {
   content: "";
-  background: url(/novoSiteBull/image/block/posts/Posts.png);
+  background: url(/novoSiteBull/versaoBolinha/block/posts/Posts.png);
   display: block;
   width: 178px;
   height: 178px;
@@ -15,7 +15,7 @@
   top: -100px;
   left: 0;
   right: 0;
-  margin: 0 auto;  
+  margin: 0 auto;
 }
 .boxPostTrainer-title {
   font-weight: bolder;

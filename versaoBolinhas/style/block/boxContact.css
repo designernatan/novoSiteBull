@@ -8,7 +8,7 @@
 }
 .boxContact:before {
   content: "";
-  background: url(/novoSiteBull/image/block/contact/contato.png);
+  background: url(/novoSiteBull/versaoBolinha/block/contact/contato.png);
   display: block;
   width: 178px;
   height: 178px;
@@ -16,14 +16,14 @@
   top: -100px;
   left: 0;
   right: 0;
-  margin: 0 auto;  
+  margin: 0 auto;
 }
 .boxContact-title {
   font-weight: bolder;
   margin-bottom: .8em;
   display: block;
   margin: 0 auto;
-  margin-bottom: 1em; 
+  margin-bottom: 1em;
 }
 .boxContact-inputText {
   box-sizing: padding-box;
